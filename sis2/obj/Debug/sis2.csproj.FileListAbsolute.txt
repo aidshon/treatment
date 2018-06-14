@@ -1,0 +1,10 @@
+C:\Users\Aid\source\repos\sis2\sis2\bin\Debug\sis2.exe.config
+C:\Users\Aid\source\repos\sis2\sis2\bin\Debug\sis2.exe
+C:\Users\Aid\source\repos\sis2\sis2\bin\Debug\sis2.pdb
+C:\Users\Aid\source\repos\sis2\sis2\obj\Debug\sis2.csprojResolveAssemblyReference.cache
+C:\Users\Aid\source\repos\sis2\sis2\obj\Debug\sis2.Form1.resources
+C:\Users\Aid\source\repos\sis2\sis2\obj\Debug\sis2.Properties.Resources.resources
+C:\Users\Aid\source\repos\sis2\sis2\obj\Debug\sis2.csproj.GenerateResource.cache
+C:\Users\Aid\source\repos\sis2\sis2\obj\Debug\sis2.csproj.CoreCompileInputs.cache
+C:\Users\Aid\source\repos\sis2\sis2\obj\Debug\sis2.exe
+C:\Users\Aid\source\repos\sis2\sis2\obj\Debug\sis2.pdb
